@@ -4,8 +4,8 @@ import './globals.css';
 import { Montserrat, Oxanium } from 'next/font/google';
 
 export const metadata: Metadata = {
-  title: 'Connect',
-  description: 'NLW - Connect'
+  title: 'DevStage',
+  description: 'NLW Connect - DevStage'
 };
 
 const oxanium = Oxanium({
