@@ -28,6 +28,7 @@ const config: Config = {
       heading: 'var(--font-oxanium)',
       sans: 'var(--font-montserrat)'
     },
+
     extend: {
       colors: {
         background: 'var(--background)',
