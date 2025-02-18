@@ -1,6 +1,5 @@
 <h2 align='center'>:earth_americas: NLW - Connect (front-end) :earth_americas:</h2>
 
-
 ## :pushpin: Requirements: :pushpin:
 
 NodeJs: :link: https://nodejs.org/en/
@@ -30,5 +29,3 @@ npm run dev or yarn dev
 ```
 
 ---
-
-
