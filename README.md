@@ -1,4 +1,4 @@
-<h2 align='center'>:earth_americas: NLW - Connect (front-end) :earth_americas:</h2>
+<h2 align='center'>:earth_americas: DevStage :earth_americas:</h2>
 
 ## :pushpin: Requirements: :pushpin:
 
@@ -12,7 +12,7 @@ NextJs: :link: https://nextjs.org/
 1. Clone this repo
 
 ```sh
-git clone https://github.com/Aleydon/Connect.git
+git clone https://github.com/Aleydon/DevStage.git
 ```
 
 <br>
