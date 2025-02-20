@@ -17,5 +17,20 @@ describe('Button Component', () => {
       </Button>
     );
     expect(getByText('Button Component')).toBeInTheDocument();
+    expect(
+      getByText('Button Component').querySelector('svg')
+    ).toBeInTheDocument();
+  });
+
+  it('should render with the right arrow icon', () => {
+    const icon = render(
+      <Button>
+        <ArrowRight />
+      </Button>
+    );
+    expect(icon.container.querySelector('svg')).toBeInTheDocument();
+    expect(icon.container.querySelector('svg')).toHaveClass(
+      'lucide lucide-arrow-right'
+    );
   });
 });
